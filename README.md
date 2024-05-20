@@ -1,6 +1,6 @@
 # Compte-Personne-Code
 
-Réalisé par EL GANDOUZ Amine, SAIDI Soufiane, BERHILI Haytham.
+Réalisé par EL GANDOUZ Amine, SAIDI Soufiane et BERHILI Haytham.
 
 - Le fichier Code.zip se situe le code d'acquisition et de traitement.
 
